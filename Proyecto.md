@@ -28,7 +28,7 @@ Crea un virus para introducirlo en los fresones y así matar a los huemanos
 ### Conflicto 
 Josebot quiere matar a los humanos ya que se siente dolido con ellos por haberlo mandado a Marte.
 
-- ChatBot: (enlace) 
+- ChatBot: https://t.me/Jose0Bot
 
 - Banner:  (enlace) 
 
